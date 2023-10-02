@@ -8,8 +8,6 @@ This project is a comprehensive **analysis** of various **financial assets**, in
 
 ## Project Objectives
 
-The main objectives of this project are as follows:
-
 - **Data Collection**: Collect historical price data for Apple, NVIDIA, Amazon, and Tesla (stocks) from 01/01/2020, and for Bitcoin from 01/01/2014 up to the current date of this proejct using the yfinance library
 
 - **Statistical Analysis**: Perform statistical analysis on the collected data, including calculating **mean daily returns, volatility, annualized mean return, annualized volatility, and constructing a correlation matrix** to understand the relationships between assets.
@@ -17,8 +15,6 @@ The main objectives of this project are as follows:
 - **Bitcoin Analysis**: Focus on Bitcoin, including the calculation of the 200-Day and 50-Day Exponential Moving Averages (EMA), building a Linear Regression model to make predictions until 01/01/2028, and estimating future price predictions with standard deviation.
 
 ## Project Workflow
-
-The project workflow can be summarized as follows:
 
 - **Data Collection**:
 
@@ -35,7 +31,7 @@ Create a correlation matrix to assess the relationships between assets.
 
 For the analysis of Bitcoin, **historical price data** has been **collected** starting **from 01/01/2014** up to the current date of this project. This extended historical data is used to make more accurate and informed **predictions** for Bitcoin's **future price movements until 01/01/2028**.
 
-The analysis includes the following key components:
+The bitcoin analysis includes the following key components:
 
 Calculation of the **200-Day and 50-Day Exponential Moving Averages (EMA)** for Bitcoin.
 Development of a **Linear Regression model** to predict Bitcoin's price trends until 01/01/2028.
@@ -49,8 +45,6 @@ By utilizing an extended dataset, this analysis aims to provide more reliable **
 Utilize matplotlib, seaborn, and other libraries to create informative visualizations of the data and results.
 
 ## Achievements and Insights
-
-Throughout this project, several achievements and insights were gained:
 
 **Identification of trends and patterns in the price movements of Apple, NVIDIA, Amazon, Tesla, and Bitcoin**.
 Quantification of risk and return through **statistical analysis, aiding in investment decision-making**.
