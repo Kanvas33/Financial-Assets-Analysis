@@ -8,7 +8,7 @@ This project is a comprehensive **analysis** of various **financial assets**, in
 
 ## Project Objectives
 
-- **Data Collection**: Collect historical price data for Apple, NVIDIA, Amazon, and Tesla (stocks) from 01/01/2020, and for Bitcoin from 01/01/2014 up to the current date of this proejct using the yfinance library
+- **Data Collection**: Collect historical price data for Apple, NVIDIA, Amazon, and Tesla (stocks) from 01/01/2020, and for Bitcoin from 01/01/2014 up to the current date of this proejct using the yfinance library.
 
 - **Statistical Analysis**: Perform statistical analysis on the collected data, including calculating **mean daily returns, volatility, annualized mean return, annualized volatility, and constructing a correlation matrix** to understand the relationships between assets.
 
