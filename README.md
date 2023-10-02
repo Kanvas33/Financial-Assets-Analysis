@@ -3,15 +3,15 @@
 
 ## Project Overview
 
-This project is a comprehensive **analysis** of various **financial assets**, including stocks **(Apple, NVIDIA, Amazon, Tesla) and Bitcoin**. The analysis covers the period from 01/01/2020(Stocks) and from 01/01/2014(Bitcoin)  up to the present date, providing insights into **price movements, statistical analysis, and future predictions**. The project utilizes popular **Python** libraries such as **yfinance, pandas, matplotlib, datetime, numpy, seaborn, scikit-learn**, and more to gather, analyze, and visualize data.
+This project is a comprehensive **analysis** of various **financial assets**, including stocks **(Apple, NVIDIA, Amazon, Tesla) and Bitcoin**. The analysis covers the period from 01/01/2020(Stocks) and from 01/01/2014(Bitcoin)  up to the present date of this project, providing insights into **price movements, statistical analysis, and future predictions**. The project utilizes popular **Python** libraries such as **yfinance, pandas, matplotlib, datetime, numpy, seaborn, scikit-learn**, and more to gather, analyze, and visualize data.
 
 ## Project Objectives
 
 The main objectives of this project are as follows:
 
-**Data Collection**: Gather historical price data for Apple, NVIDIA, Amazon, Tesla, and Bitcoin from 01/01/2020 up to the current date using the yfinance library.
+**Data Collection**: Collect historical price data for Apple, NVIDIA, Amazon, and Tesla (stocks) from 01/01/2020, and for Bitcoin from 01/01/2014 up to the current date of this proejct using the yfinance library
 
-**Statistical Analysis**: Perform statistical analysis on the collected data, including calculating mean daily returns, volatility, annualized mean return, annualized volatility, and constructing a correlation matrix to understand the relationships between assets.
+**Statistical Analysis**: Perform statistical analysis on the collected data, including calculating **mean daily returns, volatility, annualized mean return, annualized volatility, and constructing a correlation matrix** to understand the relationships between assets.
 
 **Bitcoin Analysis**: Focus on Bitcoin, including the calculation of the 200-Day and 50-Day Exponential Moving Averages (EMA), building a Linear Regression model to make predictions until 01/01/2028, and estimating future price predictions with standard deviation.
 
@@ -21,7 +21,7 @@ The project workflow can be summarized as follows:
 
 **Data Collection**:
 
-Utilize the yfinance library to **fetch historical price data for the selected assets**.
+Utilize the yfinance library to fetch historical price data for the selected assets.
 Organize and preprocess the data using pandas and datetime.
 
 **Statistical Analysis**:
@@ -32,7 +32,7 @@ Create a correlation matrix to assess the relationships between assets.
 
 **Bitcoin Analysis**:
 
-For the analysis of Bitcoin, historical price data has been collected starting from 01/01/2014 up to the current date. This extended historical data is used to make more accurate and informed predictions for Bitcoin's future price movements until 01/01/2028.
+For the analysis of Bitcoin, historical price data has been collected starting from 01/01/2014 up to the current date of this project. This extended historical data is used to make more accurate and informed predictions for Bitcoin's future price movements until 01/01/2028.
 
 The analysis includes the following key components:
 
