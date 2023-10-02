@@ -2,7 +2,9 @@
 
 ## Apple(AAPL), NVIDIA(NVDA), Amazon(AMZN), Tesla(TSLA), and Bitcoin(BTC-USD).
 
-## Open the file named 'Financial Assets Performance Analysis.ipynb' to review the code.
+## Check the code by clicking on the link below:
+- ['Financial Assets Performance Analysis' Project](https://github.com/Kanvas33/Python-Financial-Assets-Analysis/blob/main/Financial%20Assets%20Performance%20Analysis.ipynb)
+
 
 ## Project Overview
 
