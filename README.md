@@ -1,4 +1,5 @@
 # Financial Assets Performance Analysis
+
 ## Apple, NVIDIA, Amazon, Tesla, and Bitcoin.
 
 ## Project Overview
