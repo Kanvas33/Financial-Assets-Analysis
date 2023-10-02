@@ -1,4 +1,4 @@
-# Financial Assets Performance Analysis
+# Financial Assets Performance Analysis Project
 
 ## Apple(AAPL), NVIDIA(NVDA), Amazon(AMZN), Tesla(TSLA), and Bitcoin(BTC-USD).
 
