@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is a comprehensive **analysis** of various **financial assets**, including **stocks** **(Apple, NVIDIA, Amazon, Tesla) and Bitcoin**. The analysis covers the period from 01/01/2020(Stocks) and from 01/01/2014(Bitcoin)  up to the present date of this project, providing insights into **price movements, statistical analysis, and future predictions**. The project utilizes popular **Python** libraries such as **yfinance, pandas, matplotlib, datetime, numpy, seaborn, scikit-learn**, and more to gather, analyze, and visualize data.
+This project is a comprehensive **analysis** of various **financial assets**, including **stocks** **(Apple, NVIDIA, Amazon, Tesla) and Bitcoin**. The analysis covers the period **from 01/01/2020(Stocks)** and **from 01/01/2014(Bitcoin)**  up to the present date of this project, providing insights into **price movements, statistical analysis, and future predictions**. The project utilizes popular **Python** libraries such as **yfinance, pandas, matplotlib, datetime, numpy, seaborn, scikit-learn**, and more to gather, analyze, and visualize data.
 
 ## Project Objectives
 
