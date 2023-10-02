@@ -1,11 +1,11 @@
 # Financial Assets Performance Analysis
-# Apple, NVIDIA, Amazon, Tesla, and Bitcoin.
+## Apple, NVIDIA, Amazon, Tesla, and Bitcoin.
 
 ### Project Overview
 
 This project is a comprehensive **analysis** of various **financial assets**, including stocks **(Apple, NVIDIA, Amazon, Tesla) and Bitcoin**. The analysis covers the period from 01/01/2020(Stocks) and from 01/01/2014(Bitcoin)  up to the present date of this project, providing insights into **price movements, statistical analysis, and future predictions**. The project utilizes popular **Python** libraries such as **yfinance, pandas, matplotlib, datetime, numpy, seaborn, scikit-learn**, and more to gather, analyze, and visualize data.
 
-## Project Objectives
+### Project Objectives
 
 The main objectives of this project are as follows:
 
@@ -15,7 +15,7 @@ The main objectives of this project are as follows:
 
 **Bitcoin Analysis**: Focus on Bitcoin, including the calculation of the 200-Day and 50-Day Exponential Moving Averages (EMA), building a Linear Regression model to make predictions until 01/01/2028, and estimating future price predictions with standard deviation.
 
-## Project Workflow
+### Project Workflow
 
 The project workflow can be summarized as follows:
 
@@ -47,7 +47,7 @@ By utilizing an extended dataset, this analysis aims to provide more reliable **
 
 Utilize matplotlib, seaborn, and other libraries to create informative visualizations of the data and results.
 
-## Achievements and Insights
+### Achievements and Insights
 
 Throughout this project, several achievements and insights were gained:
 
@@ -55,7 +55,7 @@ Throughout this project, several achievements and insights were gained:
 Quantification of risk and return through **statistical analysis, aiding in investment decision-making**.
 Predictive modeling for Bitcoin, allowing for future **price predictions and risk assessment**.
 
-## Conclusion
+### Conclusion
 
 In conclusion, this project provides a thorough **analysis of financial assets**, ranging from **traditional** stocks to the **cryptocurrency** Bitcoin. It equips investors and analysts with valuable **insights** into **historical performance**, **risk assessment**, and **future predictions**. The combination of **Python libraries, statistical methods, and machine learning** models makes this analysis a powerful tool for financial **decision-making**.
 
