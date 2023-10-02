@@ -37,9 +37,9 @@ For the analysis of Bitcoin, historical price data has been collected starting f
 
 The analysis includes the following key components:
 
-- Calculation of the **200-Day and 50-Day Exponential Moving Averages (EMA)** for Bitcoin.
-- Development of a **Linear Regression model** to predict Bitcoin's price trends until 01/01/2028.
-- Estimation of future **price predictions** for Bitcoin, considering **standard deviation** and historical data.
+Calculation of the **200-Day and 50-Day Exponential Moving Averages (EMA)** for Bitcoin.
+Development of a **Linear Regression model** to predict Bitcoin's price trends until 01/01/2028.
+Estimation of future **price predictions** for Bitcoin, considering **standard deviation** and historical data.
 
 By utilizing an extended dataset, this analysis aims to provide more reliable **insights into Bitcoin's future performance and trends**, which can be valuable for investors and enthusiasts interested in the cryptocurrency market.
 
