@@ -1,10 +1,10 @@
 # Financial Assets Performance Analysis
 
-## Apple, NVIDIA, Amazon, Tesla, and Bitcoin.
+## Apple(AAPL), NVIDIA(NVDA), Amazon(AMZN), Tesla(TSLA), and Bitcoin(BTC-USD).
 
 ## Project Overview
 
-This project is a comprehensive **analysis** of various **financial assets**, including stocks **(Apple, NVIDIA, Amazon, Tesla) and Bitcoin**. The analysis covers the period from 01/01/2020(Stocks) and from 01/01/2014(Bitcoin)  up to the present date of this project, providing insights into **price movements, statistical analysis, and future predictions**. The project utilizes popular **Python** libraries such as **yfinance, pandas, matplotlib, datetime, numpy, seaborn, scikit-learn**, and more to gather, analyze, and visualize data.
+This project is a comprehensive **analysis** of various **financial assets**, including **stocks** **(Apple, NVIDIA, Amazon, Tesla) and Bitcoin**. The analysis covers the period from 01/01/2020(Stocks) and from 01/01/2014(Bitcoin)  up to the present date of this project, providing insights into **price movements, statistical analysis, and future predictions**. The project utilizes popular **Python** libraries such as **yfinance, pandas, matplotlib, datetime, numpy, seaborn, scikit-learn**, and more to gather, analyze, and visualize data.
 
 ## Project Objectives
 
@@ -33,13 +33,13 @@ Create a correlation matrix to assess the relationships between assets.
 
 **Bitcoin Analysis**:
 
-For the analysis of Bitcoin, historical price data has been collected starting from 01/01/2014 up to the current date of this project. This extended historical data is used to make more accurate and informed predictions for Bitcoin's future price movements until 01/01/2028.
+For the analysis of Bitcoin, **historical price data** has been **collected** starting **from 01/01/2014** up to the current date of this project. This extended historical data is used to make more accurate and informed **predictions** for Bitcoin's **future price movements until 01/01/2028**.
 
 The analysis includes the following key components:
 
 Calculation of the **200-Day and 50-Day Exponential Moving Averages (EMA)** for Bitcoin.
 Development of a **Linear Regression model** to predict Bitcoin's price trends until 01/01/2028.
-Estimation of future **price predictions** for Bitcoin, considering **standard deviation** and historical data.
+Estimation of future **price predictions** for Bitcoin, considering **standard deviation** and **historical data**.
 
 By utilizing an extended dataset, this analysis aims to provide more reliable **insights into Bitcoin's future performance and trends**, which can be valuable for investors and enthusiasts interested in the cryptocurrency market.
 
