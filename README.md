@@ -59,3 +59,6 @@ Predictive modeling for Bitcoin, allowing for future **price predictions and ris
 In **conclusion**, this project provides a thorough **analysis of financial assets**, ranging from **traditional** stocks to the **cryptocurrency** Bitcoin. It equips investors and analysts with valuable **insights** into **historical performance**, **risk assessment**, and **future predictions**. The combination of **Python libraries, statistical methods, and machine learning** models makes this analysis a powerful tool for financial **decision-making**.
 
 Feel free to explore the code and visualizations in the project's repository to gain a deeper understanding of the findings and to adapt the analysis for your own financial analysis needs.
+
+#### For any questions or further information, please feel free to contact me here or at jeff.farias@gmail.com.
+
